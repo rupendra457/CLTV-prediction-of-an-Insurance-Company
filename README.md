@@ -32,4 +32,13 @@ For the Given project requirement R^2 is used.
 
 **SUPERVISED MODELS USED:**
    
+ ![image](https://user-images.githubusercontent.com/121590533/214030061-2667e1b6-eab8-4a94-a377-e28710f1b99d.png)
+
    
+**FINAL MODEL:**
+
+After evalulating the above models it is observed that Polynomial regression and Random forest regressor are performing better than other models. Therefor for predicting the output Random forest Regression model is used.
+
+**Conclusion:**
+
+ From the models it us observed that the R^2 Value is in the range of 0.15 - 0.16 and it not going beyond that. By adding more relavent features we can improve the R^2 values and efficiency of the model.
